@@ -1,0 +1,1 @@
+print(my_response.status_code)
